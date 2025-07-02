@@ -37,7 +37,7 @@ us_mobility_plt = go.Scatter(
 us_mb = go.Figure(data = us_mobility_plt)
 
 us_mb.update_layout(
-     title_text = 'Dallas Fed US Mobility',
+     title_text = 'Dallas Federal Reserve  US Mobility',
  )
 
 data_slider = []
